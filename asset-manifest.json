@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/sweet-shop-profit-calculator/static/css/main.e6c13ad2.css",
+    "main.js": "/sweet-shop-profit-calculator/static/js/main.b53eff11.js",
+    "static/js/453.a07f1416.chunk.js": "/sweet-shop-profit-calculator/static/js/453.a07f1416.chunk.js",
+    "index.html": "/sweet-shop-profit-calculator/index.html",
+    "main.e6c13ad2.css.map": "/sweet-shop-profit-calculator/static/css/main.e6c13ad2.css.map",
+    "main.b53eff11.js.map": "/sweet-shop-profit-calculator/static/js/main.b53eff11.js.map",
+    "453.a07f1416.chunk.js.map": "/sweet-shop-profit-calculator/static/js/453.a07f1416.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.b53eff11.js"
+  ]
+}
